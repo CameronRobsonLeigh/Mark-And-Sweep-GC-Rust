@@ -1,0 +1,1 @@
+C:\Users\Camer\source\repos\GarbageCollector\target\debug\GarbageCollector.exe: C:\Users\Camer\source\repos\GarbageCollector\src\main.rs C:\Users\Camer\source\repos\GarbageCollector\src\models\collector.rs C:\Users\Camer\source\repos\GarbageCollector\src\models\mod.rs C:\Users\Camer\source\repos\GarbageCollector\src\models\object.rs
